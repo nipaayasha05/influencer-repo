@@ -159,6 +159,7 @@ main>section{
 
 .featured-image img{
     width: 398px;
+    margin-left: 12px;
 }
 .featured-details .btn{
     border-radius:0;
