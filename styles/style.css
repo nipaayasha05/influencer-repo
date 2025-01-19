@@ -147,7 +147,7 @@ main>section{
     text-align: end;
 }
   .featured-products{
-    min-width: 1440px;
+    max-width: 1440px;
     margin: 0 auto;
     margin-bottom: 50px;
   }
@@ -160,10 +160,10 @@ main>section{
 
  
 
-/* .featured-image img{
-    max-width: auto;
+.featured-image img{
+    max-width: 383px;
      
-}  */
+} 
 .featured-details .btn{
     border-radius:0;
 } 
@@ -238,12 +238,13 @@ filter: grayscale(100%) brightness(.3)  invert(1);
     
  }
  .featured-image{
-    min-width: 384px;
+    max-width: 350px;
     /* margin-right: -12px; */
     
  }
  .featured-details{
     text-align: center;
+    min-width: 364px;
    
  }
  .footer{
