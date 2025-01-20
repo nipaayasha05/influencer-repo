@@ -193,6 +193,10 @@ filter: grayscale(100%) brightness(.3)  invert(1);
         flex-direction: column-reverse;
         gap: 30px;
 }
+footer{
+    min-width:100%;
+}
+}
 @media screen and (max-width:576px){
    .navbar{
     flex-direction: column;
