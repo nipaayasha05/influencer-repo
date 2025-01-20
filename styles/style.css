@@ -259,10 +259,10 @@ filter: grayscale(100%) brightness(.3)  invert(1);
     
  }
   
- }
+ 
  .featured-details{
     text-align: center;
-    min-width: 364px;
+    /* min-width: 364px; */
    
  }
  /* .footer{
